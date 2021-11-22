@@ -1,7 +1,12 @@
+ Proposal-1
+
+
+ main
 We are learning GITHUB
 
 Tamales
 Sushi
+Proposal-1 
 
 Chicken Fry
 
@@ -10,4 +15,10 @@ Pizza
 
 Thank you :)
 
-Final review from Branch.
+
+Chicken Fry
+
+Thank you :)
+
+Final Copy
+ main
